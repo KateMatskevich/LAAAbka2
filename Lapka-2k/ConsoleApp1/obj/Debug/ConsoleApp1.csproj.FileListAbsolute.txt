@@ -1,0 +1,10 @@
+D:\Go study\OOP\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Go study\OOP\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Go study\OOP\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Go study\OOP\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Go study\OOP\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Go study\OOP\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Go study\OOP\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Go study\OOP\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.dll
+D:\Go study\OOP\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\System.ValueTuple.xml
+D:\Go study\OOP\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
